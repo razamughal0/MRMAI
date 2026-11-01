@@ -1,0 +1,16 @@
+# MRM Bridge — real Windows control backend
+fastapi
+uvicorn
+websockets
+python-dotenv
+pyautogui
+pyperclip
+requests
+pillow
+
+# Optional: original LiveKit voice agent (mrm_agent.py)
+# livekit-agents
+# livekit-plugins-google
+# livekit-plugins-ai-coustics
+# numpy
+# sounddevice
